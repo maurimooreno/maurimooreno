@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Buscando  La primer oportunidad IT 
+- 🔭 Buscando mi primera oportunidad laboral en el mundo IT 
 - 🌱 Estudiando  Full stack Developer 
 
 ## 🚀 Lenguajes and Tools:
@@ -25,6 +25,14 @@
 
 </div>
 
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/mauriciomooreno/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:maurimooreno@gmail.com" ><img width="5%" src="https://img.icons8.com/fluent/48/000000/mail.png">
+
+</p>
+  
 <!--
 **maurimooreno/maurimooreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
