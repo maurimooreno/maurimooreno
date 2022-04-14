@@ -4,6 +4,7 @@
 
 - 🔭 Buscando mi primera oportunidad laboral en el mundo IT 
 - 🌱 Estudiando  Full stack Developer 
+- 👯 Me gusta formar parte de grupos de trabajos y poder compartir conocimientos con personas con intereses en común.
 
 ## 🚀 Lenguajes and Tools:
 
